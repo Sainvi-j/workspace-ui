@@ -1,4 +1,3 @@
-````markdown
 # <workspace-ui>
 
 A sleek, responsive frontend for <brief description, e.g., "a job portal/blog dashboard"> built with **<React/Next.js>**.  
