@@ -1,4 +1,4 @@
-# Workspace-ui
+# Workspace-UI
 
 A sleek, responsive frontend for <brief description, e.g., "a job portal/blog dashboard"> built with **<Reactjs>**. 
 
