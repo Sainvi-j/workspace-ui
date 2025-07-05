@@ -17,8 +17,6 @@ A sleek, responsive frontend for <brief description, e.g., "a job portal/blog da
    ```bash
    git clone https://github.com/Sainvi-j/workspace-ui
    ```
-````
-
 2. Install dependencies:
    ```bash
    npm install
