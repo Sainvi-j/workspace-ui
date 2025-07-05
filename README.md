@@ -46,13 +46,3 @@ A sleek, responsive frontend for <brief description, e.g., "a job portal/blog da
 
 ---
 
-## Folder Structure
-
-```
-src/
-├── components/   # Reusable UI components
-├── pages/        # Next.js routes
-├── styles/       # Global CSS/Tailwind config
-├── hooks/        # Custom hooks
-└── utils/        # Helper functions
-```
