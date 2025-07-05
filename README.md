@@ -1,7 +1,7 @@
 # Workspace-UI
 
-A sleek, responsive frontend for <brief description, e.g., "a job portal/blog dashboard"> built with **<Reactjs>**. 
-[![Live Demo](https://img.shields.io/badge/demo-live-green?style=flat)]([<Your_Live_URL>](https://lexi-ai-manage-your-projects.onrender.com))
+A sleek, responsive frontend for LeXi Ai - Manage Your Projects built with **<Reactjs>**. 
+[![Live Demo](https://img.shields.io/badge/demo-live-green?style=flat)](https://lexi-ai-manage-your-projects.onrender.com)
 ---
 ## Tech Stack
 
