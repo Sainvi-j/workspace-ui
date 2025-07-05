@@ -3,17 +3,9 @@
 A sleek, responsive frontend for <brief description, e.g., "a job portal/blog dashboard"> built with **<Reactjs>**. 
 
 ---
-
-## Features
-
-- **Pixel-perfect UI** matching Figma design
-- **Responsive** layout (mobile, tablet, desktop)
-- **<Interactive components>** (e.g., modals, filters, animations)
-- **<State management>** (e.g., Context API, Zustand)
-
 ## Tech Stack
 
-- **Framework**: Next.js / React
+- **Framework**: React
 - **Styling**: Tailwind CSS / CSS Modules
 - **Deployment**:
 
@@ -36,13 +28,6 @@ A sleek, responsive frontend for <brief description, e.g., "a job portal/blog da
    npm run dev
    ```
 4. Open `yourlocalhostsite` in your browser.
-
----
-
-## Why This Project?
-
-- **<Unique selling point>** (e.g., "Uses ISR for blazing-fast page loads")
-- **<Challenge solved>** (e.g., "Complex state synchronization across components")
 
 ---
 
