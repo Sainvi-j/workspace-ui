@@ -1,14 +1,12 @@
 # <workspace-ui>
 
-A sleek, responsive frontend for <brief description, e.g., "a job portal/blog dashboard"> built with **<React/Next.js>**.  
-[![Live Demo](https://img.shields.io/badge/demo-live-green?style=flat)](Your_Live_URL)  
-[![GitHub license](https://img.shields.io/github/license/<username>/<repo>?color=blue)](LICENSE)
+A sleek, responsive frontend for <brief description, e.g., "a job portal/blog dashboard"> built with **<Reactjs>**. 
 
 ---
 
 ## Features
 
-- **Pixel-perfect UI** matching [Figma design](Figma_URL)
+- **Pixel-perfect UI** matching Figma design
 - **Responsive** layout (mobile, tablet, desktop)
 - **<Interactive components>** (e.g., modals, filters, animations)
 - **<State management>** (e.g., Context API, Zustand)
